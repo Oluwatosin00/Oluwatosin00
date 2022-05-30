@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Oluwatosin00
 - 👀 I’m interested in python programming,c++ programming
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on programmers that are ready to teach and collaborates with people
+- 💞️ I’m looking to collaborate with programmers that are ready to teach and collaborates with people
 - 📫 How to reach me: via number+2347045258379
 
 <!---
